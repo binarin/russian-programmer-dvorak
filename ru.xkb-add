@@ -1,0 +1,21 @@
+partial default alphanumeric_keys
+xkb_symbols "dvp" {
+    include "ru(common)"
+
+    name[Group1]= "Russia";
+
+    key <AE01> {        [       numerosign, percent   ]       };
+    key <AE02> {        [       quotedbl,   7         ]       };
+    key <AE03> {        [       question,   5         ]       };
+    key <AE04> {        [       slash,      3         ]       };
+    key <AE05> {        [       parenleft,  1         ]       };
+    key <AE06> {        [       equal,      9         ]       };
+    key <AE07> {        [       asterisk,   0         ]       };
+    key <AE08> {        [       parenright, 2         ]       };
+    key <AE09> {        [       plus,       4         ]       };
+    key <AE10> {        [       minus,      6         ]       };
+    key <AE11> {        [       exclam,     8         ]       };
+    key <AE12> {        [       semicolon,  colon     ]       };
+    key <AB10> {        [       period,     comma     ]       };
+    key <BKSL> {        [       backslash,  bar       ]       };
+};
