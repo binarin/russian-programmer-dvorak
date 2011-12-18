@@ -6,7 +6,7 @@ Dvorak](http://www.kaufmann.no/roland/dvorak/).  Для русского язы�
 доступны все символы обычной windows-раскладки, но в максимально
 совместимом с Programmer Dvorak виде.
 
-![Keyboard Layout](dvp.png)
+![Keyboard Layout](raw/master/dvp.png)
 
 Установка
 =========
